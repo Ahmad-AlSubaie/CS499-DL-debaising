@@ -9998,3 +9998,7 @@ BERT/aclImdb/train/pos/12234_8.txt
 BERT/aclImdb/train/pos/12235_7.txt
 BERT/aclImdb/train/pos/12236_10.txt
 BERT/aclImdb/train/pos/12237_10.txt
+BERT/datasets/labeled_data.csv
+BERT/datasets/hate speech tweets/labeled_data.csv
+BERT/datasets/labeled_data.csv
+BERT/datasets/Customer support tweets/twcs.csv
