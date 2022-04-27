@@ -10002,3 +10002,5 @@ BERT/datasets/labeled_data.csv
 BERT/datasets/hate speech tweets/labeled_data.csv
 BERT/datasets/labeled_data.csv
 BERT/datasets/Customer support tweets/twcs.csv
+BERT/model.png
+BERT/__pycache__/models.cpython-39.pyc
