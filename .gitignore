@@ -10004,3 +10004,5 @@ BERT/datasets/labeled_data.csv
 BERT/datasets/Customer support tweets/twcs.csv
 BERT/model.png
 BERT/__pycache__/models.cpython-39.pyc
+__pycache__/gradio.cpython-39.pyc
+__pycache__/gradio.cpython-310.pyc
