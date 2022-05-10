@@ -1,13 +1,12 @@
 
 
-**WIP!**
+# WIP! This is a template provided by Papers with code. This is intended as a well documneted archive of my senior research project, to be submited for publication at a later data. 
 
 >📋  A template README.md for code accompanying a Machine Learning paper
 
-# My Paper Title
+# Bias and Fairness in NLP, Benchmark Datasets as Evaluation Tools
 
-This repository is the official implementation of [My Paper Title](https://arxiv.org/abs/2030.12345). 
-
+This repository is the official implementation of 
 >📋  Optional: include a graphic explaining your approach/main result, bibtex entry, link to demos, blog posts and tutorials
 
 ## Requirements
