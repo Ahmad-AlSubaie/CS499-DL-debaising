@@ -1,6 +1,6 @@
 
 
-# WIP! This is a template provided by Papers with code. This is intended as a well documneted archive of my senior research project, to be submited for publication at a later data. 
+# WIP! This is intended as a documneted archive of my senior research project, to be submited for publication at a later data. It is publicly avalible with the intent of sharing with Professors, Researcher, and my peers. 
 
 >📋  A template README.md for code accompanying a Machine Learning paper
 
