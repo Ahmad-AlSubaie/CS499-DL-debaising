@@ -6,6 +6,10 @@ This is intended as a documneted archive of my senior research project, to be su
 
 # datasets used
 
+## HateSpeech and offensive language
+
+  Thomas Davidson, Dana Warmsley, Michael Macy, and Ingmar Weber. 2017. "Automated Hate Speech Detection and the Problem of Offensive Language." ICWSM
+
 https://github.com/t-davidson/hate-speech-and-offensive-language
 
 @inproceedings{hateoffensive,
@@ -17,3 +21,19 @@ https://github.com/t-davidson/hate-speech-and-offensive-language
   location = {Montreal, Canada},
   pages = {512-515}
   }
+
+## HateXplain
+
+  Binny Mathew, Punyajoy Saha, Seid Muhie Yimam, Chris Biemann, Pawan Goyal, and Animesh Mukherjee "HateXplain: A Benchmark Dataset for Explainable Hate Speech Detection". Accepted at AAAI 2021.
+  
+ https://github.com/hate-alert/HateXplain
+
+@inproceedings{mathew2021hatexplain,
+  title={HateXplain: A Benchmark Dataset for Explainable Hate Speech Detection},
+  author={Mathew, Binny and Saha, Punyajoy and Yimam, Seid Muhie and Biemann, Chris and Goyal, Pawan and Mukherjee, Animesh},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={35},
+  number={17},
+  pages={14867--14875},
+  year={2021}
+}
