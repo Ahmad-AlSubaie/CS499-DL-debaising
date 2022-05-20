@@ -8,6 +8,18 @@ This is intended as a documneted archive of my senior research project, to be su
 # summery
 There are some serious ethical implications when machine learning models carry out human biases, whether intended or not. There are many ways in which bias can creep into our model. To evaluate bias models, we explored fairness metrics in a natural language processing (NLP) setting using a BERT model. Specifically, in the context of hate speech classification. This allows us to explore the limitations of these metrics. Through experimental testing, we compare the explanatory power of the balanced accuracy metric as compared to F1 scores and accuracy. These metricts where evaluated against the hateXplain benchmarking dataset and hate speech and offensive language dataset. 
 
+-------------------------
+***Folder Description*** 
+-------------------------
+~~~
+
+./BERT                  --> Contains the notbooks for model training and inferance
+./BERT/outputs          --> Contains the raw classificaiton outputs and analysis
+./BERT/hate_speech_bert --> Contains the model chackpoint of BERT train on the "hate speech and offensive language dataset"
+
+~~~
+
+
 # datasets used
 
 ## HateSpeech and offensive language
