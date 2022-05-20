@@ -12,11 +12,9 @@ There are some serious ethical implications when machine learning models carry o
 ***Folder Description*** 
 -------------------------
 ~~~
-
 ./BERT                  --> Contains the notbooks for model training and inferance
 ./BERT/outputs          --> Contains the raw classificaiton outputs and analysis
 ./BERT/hate_speech_bert --> Contains the model chackpoint of BERT train on the "hate speech and offensive language dataset"
-
 ~~~
 
 
