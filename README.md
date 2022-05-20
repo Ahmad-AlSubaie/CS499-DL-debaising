@@ -4,8 +4,10 @@
 
 This is intended as a documneted archive of my senior research project, to be submited for publication at a later data. It is publicly avalible with the intent of sharing with Professors, Researcher, and my peers. Additonal details and project description coming soon.
 
-#datasets used
+# datasets used
+
 https://github.com/t-davidson/hate-speech-and-offensive-language
+
 @inproceedings{hateoffensive,
   title = {Automated Hate Speech Detection and the Problem of Offensive Language},
   author = {Davidson, Thomas and Warmsley, Dana and Macy, Michael and Weber, Ingmar}, 
